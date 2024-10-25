@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrcandrs!
 - 👀 I’m interested in developing software and databases
-- 🌱 I’m currently learning: PHP, Typescript
+- 🌱 I’m currently learning: React, Typescript
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me:
 - 🌌 Facebook: https://www.facebook.com/mrcandrs/
